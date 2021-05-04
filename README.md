@@ -1,6 +1,6 @@
 # POS(Part-of-speech) tagging
 
-![]([img]https://i.imgur.com/Fc5kKt0.jpg[/img])
+![](https://i.imgur.com/Fc5kKt0.jpg)
 
 From a very small age, we have been made accustomed to identifying part of speech tags. For example, reading a sentence and being able to identify what words act as nouns, pronouns, verbs, adverbs, and so on. All these are referred to as the part of speech tags.
 
